@@ -1,6 +1,6 @@
 ---
 name: Task
-about: Use this template for a task. A task should be used for other changes, including refactoring, automated testing, configuration changes, or other supporting tasks that are not directly related to the development of the product. 
+about: Use this template for a task. A task should be used for refactoring, automated testing, configuration changes, or other supporting tasks that are not directly related to product development.
 labels: task
 title: "[FEATURE SCOPE]: [TITLE]"
 ---
