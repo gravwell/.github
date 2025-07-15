@@ -1,7 +1,7 @@
 ---
 name: Documentation
 about: Use this template for documentation needs.
-labels: 03 - Low
+labels: triage
 title: "[FEATURE SCOPE]: [TITLE]"
 type: Documentation
 ---
