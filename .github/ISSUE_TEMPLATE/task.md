@@ -7,21 +7,17 @@ type: Task
 ---
 
 <!--
-## Instructions
-Labels for change type and priority are automatically assigned at the time of creation. 
-**The default priority is Low. Please change the priority label if this requires more attention.**
+# Instructions
 
-Here are suggestions to help you set the correct priority but changes can be made at your discretion.
+PLEASE DO NOT SET ASSIGNEE, PRIORITY, LABELS, OR MILESTONE!!!
+Please complete the template below. DO NOT DELETE!
 
-If this task is related to:  
-  - Current series objectives
-  - Next major release objectives
-please set the priority to High.
-
-If this task does not meet the above criteria but is more important,
-please set the priority to Medium. 
 -->
+
 # Task
+
+Before opening a task, please complete the following checklist:
+- [ ] Check to see if this is a duplicate
 
 ## What needs to be done?
 
