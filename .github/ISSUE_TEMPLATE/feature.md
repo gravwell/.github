@@ -1,28 +1,23 @@
 ---
 name: Feature Request
 about: Use this template for requesting a new feature. This template should be used to request a new feature or functionality that does not currently exist in the application.
-labels: 03 - Low
+labels: triage
 title: "[FEATURE SCOPE]: [TITLE]"
 type: Feature
 ---
 
 <!--
-## Instructions
-Labels for change type and priority are automatically assigned at the time of creation. 
-**The default priority is Low. Please change the priority label if this requires more attention.**
+# Instructions
 
-Here are suggestions to help you set the correct priority but changes can be made at your discretion.
+PLEASE DO NOT SET ASSIGNEE, PRIORITY, LABELS, OR MILESTONE!!!
+Please complete the template below. DO NOT DELETE!
 
-If this request is related to:  
-  - Current series objectives
-  - Next major release objectives
-  - Impacting or Requested by multiple customers
-please set the priority to High.
-
-If this request does not meet the above criteria but is more important,
-please set the priority to Medium. 
 -->
+
 # Feature
+
+Before opening a feature request, please complete the following checklist:
+- [ ] Check to see if this is a duplicate
 
 ## What is the feature to be added?
 
