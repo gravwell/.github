@@ -9,3 +9,22 @@ The title of this PR should have the form:  [TYPE]([ISSUE_NUMBER]): [CHANGELOG_M
 -->
 
 This PR addresses [ISSUE_LINK]
+
+## This PR proposes...
+
+-
+
+## PR Tasks
+
+<!-- Add tasks to this list as needed -->
+
+- [ ] e2e and/or unit tests included. If not, please provide an explanation.
+- [ ] **Bug fixes only:** minimal repro steps included on the issue (for PR QA + Release QA).
+
+## Reviewer Tasks
+
+<!-- Add tasks to this list as needed -->
+
+- [ ] e2e or unit tests are present to test the proposed changes.
+- [ ] Code is sufficiently documented.
+- [ ] Code meets quality and correctness expectations.
